@@ -1,17 +1,18 @@
-#*Yulia Kolomiets*
+# **Yulia Kolomiets**
 
 
-##Contacts
-    *E-mail: yuliakolomiets09@gmail.com
-    *Tel: 89267972656
-    *Discord: Yulia Kolomiets (@juli-ko)
+## Contacts
+    * E-mail: yuliakolomiets09@gmail.com
+    * Tel: 89267972656
+    * Discord: Yulia Kolomiets (@juli-ko)
+    * GitHub: juli_ko
 
 
-##About myself:
+## About myself:
 I am learning Front-End Development!
 
 
-##Code example:
+## Code example:
 ```
 function lovefunc(flower1, flower2){
   return flower1 % 2 !== flower2 % 2 // moment of truth
@@ -19,21 +20,21 @@ function lovefunc(flower1, flower2){
 ```
 
 
-##Skills:
-    *JS
-    *HTML&CSS
-    *Python
+## Skills:
+    * JS
+    * HTML&CSS
+    * Python
 
 
-##Experience
+## Experience
 Nothig yet...
 
 
-##Education
+## Education
 University: Moscow State University of Civil Engineering, Architecture
 Courses: Hexlet, RS School 
 
 
-##Language:
+## Language:
 Russian - native
 English - B1
