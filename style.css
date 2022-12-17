@@ -1,0 +1,83 @@
+@font-face {
+ font-family: PTMono-Regular;
+  src: url("assets/fonts/PTMono-Regular.ttf");
+}
+html {
+  scroll-behavior: smooth; 
+}
+
+*{
+    font-family: PTMono-Regular;
+    box-sizing: border-box;
+    color: black;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
+
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+.nav-list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style: none;
+    background-color: beige;
+ 
+}
+.nav-item {
+    display: flex;
+    padding: 0 10px;
+    line-height: 80px;
+    
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+code{
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 2px dotted rgb(204, 0, 255);
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: beige;
+}
+
+.contact-highlights {
+    color:rgb(204, 0, 255);
+
+}
+.footer-github {
+    display: flex;
+}
+.footer-year {
+    display: flex;
+}
+.footer-rsschool {
+    display: flex;
+}
