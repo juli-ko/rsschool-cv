@@ -5,6 +5,7 @@
 html {
   scroll-behavior: smooth; 
 }
+
 *{
     font-family: PTMono-Regular;
     box-sizing: border-box;
@@ -28,12 +29,9 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin: 0;
-    padding: 0;
     list-style: none;
     background-color: beige;
  
-
 }
 .nav-item {
     display: flex;
@@ -54,10 +52,11 @@ body {
     width: 100%;
   }
 }
-.h1 {
-
-}
-.h2 {
+code{
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 2px dotted rgb(204, 0, 255);
 }
 .footer {
     display: flex;
@@ -68,10 +67,7 @@ body {
     list-style: none;
     background-color: beige;
 }
-.contact-list {
-}
-.contact-item {
-}
+
 .contact-highlights {
     color:rgb(204, 0, 255);
 
