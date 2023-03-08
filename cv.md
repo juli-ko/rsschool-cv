@@ -9,7 +9,8 @@
 
 
 ## About myself:
-I am learning Front-End Development!
+Hi! My name is Yulia and I'm 25 years old. I have an architectural education. However obtaining some real design experience, i've understood that i like to deal with technoligies more. So for the last year I work as a BIM-Coordinator. It's a specialist who help disigners to build information 3d-models of buildings, teach them to work with the modelling software and test building models. As I work a lot with an information data of building elements and automate some design processes, I've decided to develop in the field of programming. I am very grateful to study on the Front-end course of RS School.
+
 
 
 ## Code example:
@@ -21,9 +22,12 @@ function lovefunc(flower1, flower2){
 
 
 ## Skills:
-    * JS
-    * HTML&CSS
+    * JavaScript
+    * HTML
+    * CSS (SCSS)
     * Python
+    * Git, Github
+    * Webpack
 
 
 ## Experience
