@@ -4,7 +4,7 @@
 ## Contacts
     * E-mail: yuliakolomiets09@gmail.com
     * Tel: 89267972656
-    * Discord: Yulia Kolomiets (@juli-ko)
+    * Discord: yulia#9299
     * GitHub: juli_ko
 
 
