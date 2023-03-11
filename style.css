@@ -21,9 +21,9 @@ body {
   padding: 0;
 
 }
-.container {
-    max-width: 1440px;
-    margin: 0 auto;
+.container_2 {
+  max-width: 700px; 
+  margin-left: 35px;
   }
 .nav-list{
     display: flex;
@@ -39,10 +39,19 @@ body {
     line-height: 80px;
     
 }
+.container_1{
+  width: 400px;
+  border-right: black dotted 1px;
+}
 
 .main-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  max-width: 1230px;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
 .section {
   width: 50%;
@@ -72,12 +81,13 @@ code{
     color:rgb(204, 0, 255);
 
 }
-.footer-github {
-    display: flex;
+
+
+.about-me{
+  width: 700px;
 }
-.footer-year {
-    display: flex;
-}
-.footer-rsschool {
-    display: flex;
+container-footer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
