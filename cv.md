@@ -3,7 +3,6 @@
 
 ## Contacts
     * E-mail: yuliakolomiets09@gmail.com
-    * Tel: 89267972656
     * Discord: yulia#9299
     * GitHub: juli_ko
 
@@ -36,7 +35,7 @@ Nothig yet...
 
 ## Education
 University: Moscow State University of Civil Engineering, Architecture
-Courses: Hexlet, RS School 
+Courses: Hexlet, RS School (Stage 0, 1) 
 
 
 ## Language:
