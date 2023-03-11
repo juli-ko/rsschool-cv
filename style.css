@@ -79,7 +79,6 @@ code{
   display: block;
   margin: 0;
   padding: 0;
-  border: 2px dotted rgb(204, 0, 255);
 }
 .footer {
     display: flex;
