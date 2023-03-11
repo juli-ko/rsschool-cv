@@ -42,8 +42,22 @@ body {
 .container_1{
   width: 400px;
   border-right: black dotted 1px;
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 30px;
+  justify-content: space-between;
 }
-
+li{
+  list-style-type: none;
+  list-style-position: inside;
+}
+.contact-list{
+  width: 400px;
+}
+span{
+  display:inline-block
+}
 .main-container {
   max-width: 1440px;
   margin: 0 auto;
@@ -82,8 +96,11 @@ code{
 
 }
 
-
-.about-me{
+img{
+  border-radius: 50%
+}
+.about-me,
+.education-list{
   width: 700px;
 }
 container-footer{
